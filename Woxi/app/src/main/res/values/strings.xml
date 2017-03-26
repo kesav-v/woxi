@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Woxi</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <color name="orange">#d4755a</color>
+    <color name="blue">#355c7d</color>
+    <color name="green">#005500</color>
+    <color name="red">#ee0000</color>
 </resources>
