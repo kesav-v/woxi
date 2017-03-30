@@ -16,7 +16,7 @@ Native Android app built with android studio. Version control with GitHub.
 
 We used IBM Watson’s Speech-to-Text for converting the voicemail speech into data that we can analyze.
 
-We analyzed the data using 
+We analyzed the data using our own keyword text analysis algorithm.
 
 We used Google Calendar API to create Woxi’s smart reminder skill. 
 
